@@ -1,2 +1,2 @@
 # FixParse
-Parses some FIX data
+Parses some FIX data from the CME and locates some tagged data.
